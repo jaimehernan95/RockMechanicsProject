@@ -30,7 +30,7 @@ The dataset includes the following columns:
 - Histograms showing the distribution of features such as density and porosity.
 
 ### Distribution of Features
-![Distribution of Features](images/histogram.png)ß
+![Distribution of Features](images/histogram.png)
 
 ## Interpretation of Results:
 
